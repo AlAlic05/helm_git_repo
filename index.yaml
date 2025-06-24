@@ -3,12 +3,12 @@ entries:
   upgrade-rlbk:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-24T08:44:40.5830492+02:00"
+    created: "2025-06-24T09:01:02.6038311+02:00"
     description: A Helm chart for Kubernetes
     digest: ce6c769ca6762e2f2203a83c93ecd57d927d1b7b40374d88a95d5436b0ee92ac
     name: upgrade-rlbk
     type: application
     urls:
-    - https://raw.githubusercontent.com/AlAlic05/helm_git_repo/master/helm_git_repo/upgrade-rlbk-0.1.0.tgz
+    - https://raw.githubusercontent.com/AlAlic05/helm_git_repo/master/upgrade-rlbk-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-24T08:44:40.5825304+02:00"
+generated: "2025-06-24T09:01:02.6032832+02:00"
